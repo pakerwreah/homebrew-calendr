@@ -1,6 +1,6 @@
 cask "calendr" do
-  version "v1.16.7"
-  sha256 "d2066a62b1f97f3219f302011aa767231d0ef6bec47d6eae55ba08f3464ec831"
+  version "v1.16.8"
+  sha256 "a6760d591b740dcad5df44088508f5740efbff1cea405cce51479357427eabfb"
 
   url "https://github.com/pakerwreah/Calendr/releases/download/#{version}/Calendr.zip"
   name "Calendr.app"
