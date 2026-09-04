@@ -6,7 +6,7 @@ cask "calendr" do
   name "Calendr.app"
   homepage "https://github.com/pakerwreah/Calendr"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Calendr.app"
 end
